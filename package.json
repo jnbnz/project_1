@@ -1,15 +1,22 @@
 {
-  "name": "projekt",
+  "name": "project_1",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnbnz/project_1.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage":"https://jnbnz.github.io/project_1",
+  "bugs": {
+    "url": "https://github.com/jnbnz/project_1/issues"
+  },
+  "homepage": "https://github.com/jnbnz/project_1",
   "dependencies": {
     "gh-pages": "^2.2.0"
   }
